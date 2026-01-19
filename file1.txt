@@ -3,3 +3,4 @@ riga file1 n.2
 riga file1 n.3
 riga file1 n.4.2
 riga da master
+modifica da integrazione satispay
