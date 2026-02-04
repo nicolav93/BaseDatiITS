@@ -10,4 +10,4 @@ riga 9
 riga 10
 riga 11 da repo locale
 riga n.11 da github
-riga 13 da locale
+riga 13 da github
